@@ -12,8 +12,8 @@ services: # app components like ui , logs , db
 
       dockerfile: Dockerfile  # name of Dockerfile 
 
-    container_name: saritha-web-c1 # name of container 
+    container_name: saritha-web-c5 # name of container 
 
     ports:
 
-      - 1254:80 # you can use 1024-5000 range
+      - 1259:80 # you can use 1024-5000 range
